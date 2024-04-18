@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ogl3">
+</Property><Property Name="Solution File" Value="H:\amnezick\proiecte\ogl3_old\ogl3.sln">
+</Property><Property Name="User Options File" Value="H:\amnezick\proiecte\ogl3_old\ogl3.suo">
+</Property><Property Name="Date" Value="Wednesday, March 26, 2008">
+</Property><Property Name="Time" Value="7:18 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ogl3.sln" Description="File successfully backed up as H:\amnezick\proiecte\ogl3_old\ogl3.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="ogl3.suo" Description="File successfully backed up as H:\amnezick\proiecte\ogl3_old\ogl3.suo.old">
+</Event><Event ErrorLevel="0" Project="OGL3" Source="OGL3.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="OGL3" Source="OGL3.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="OGL3" Source="OGL3.vcproj" Description="Project file successfully backed up as 'H:\amnezick\proiecte\ogl3_old\OGL3.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="OGL3" Source="OGL3.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="OGL3" Source="OGL3.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ogl3.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="ogl3.sln" Description="No Conversion Required">
+</Event></UpgradeLog>
